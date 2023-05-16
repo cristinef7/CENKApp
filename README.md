@@ -1,5 +1,16 @@
 # CENK
 
+CENK is a recipe app that helps novice cooks to cook wit precision. With our app, you can adjust serving size giving you the exact measurement of ingredients.
+
+
+**Members:**
+Buenavetura, Nikki
+Enano, Kaylin Seychelles
+Flores, Cristine
+Nercuit, Ellyssa
+
+**Github Link:**
+
 A new Flutter project.
 
 ### IMPORTANT:
